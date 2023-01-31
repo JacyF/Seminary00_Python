@@ -7,7 +7,7 @@
 # 24 -> 4  16  4
 # 60 -> 10  40  10
 
-petya = int(input(("Please intruce quantity of журавликов made by Петя or Сережа : ")))
+petya = int(input(("Please introduce quantity of журавликов made by Петя or Сережа : ")))
 ceryoja = petya
 katya = (petya + ceryoja) * 2
 
